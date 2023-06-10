@@ -1,4 +1,4 @@
-# Meus_comando_git
+# Comandos_git
 este é um projeto para aprender git
 git init: ele inicia o arquivo ".git/" para controlar a pasta;
 No git status foi por validar os arquivos modificados da pasta do projeto;
