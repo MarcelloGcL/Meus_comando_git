@@ -1,7 +1,8 @@
 # Comandos_git
 este é um projeto para aprender git
 git init: ele inicia o arquivo ".git/" para controlar a pasta;
-No git status foi por validar os arquivos modificados da pasta do projeto;
+No git status foi por validar os arquivos modificados da pasta do projeto/em vermelho ele mostra os arquivos modificados
+em verde mostra os arquivos que foram adicionados pelo git add;
 No git add selecionar o arquivo modificado do projeto em uma área segura;
 git commit - m "<texto_da_modificação>" : ele e responsável por criar uma nova versão do projeto com as referências do criador.
 Erros:
