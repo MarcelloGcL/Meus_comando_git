@@ -2,6 +2,7 @@
 Config:
 Git config --global user.name "<seu_nome>";
 Git config --global user.email "<seu_email>";
+Gitk: Verificar os user que estão particando do projeto;
 Git log: Validar os meus comentários e modificações;
 Git clone <url> : baixa o projeto do repositório; 
 Git push: Envia reposição para o repositório; 
