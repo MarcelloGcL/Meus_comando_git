@@ -9,6 +9,7 @@ Git push: Envia reposição para o repositório;
 Git pull: ele puxa as alterações do repositório;
 Git checkout -b <nome da branch>: Cria um novo ramo;
 Git checkout <branch>: Muda de branch;
+git branch -d <Branch>: Deleta a branch que não precisa mais;
 Git init: ele inicia o arquivo ".git/" para controlar a pasta;
 No git status foi por validar os arquivos modificados da pasta do projeto/em vermelho ele mostra os arquivos modificados;
 em verde mostra os arquivos que foram adicionados pelo git add;
