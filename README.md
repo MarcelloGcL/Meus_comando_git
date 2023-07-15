@@ -15,6 +15,6 @@ No git status foi por validar os arquivos modificados da pasta do projeto/em ver
 em verde mostra os arquivos que foram adicionados pelo git add;
 No git add selecionar o arquivo modificado do projeto em uma área segura;
 Git commit - m "<texto_da_modificação>" : ele e responsável por criar uma nova versão do projeto com as referências do criador.
-Git merge: ele adiciona a branch atual o conteúdo de outra branch;
+Git merge <Branch>: ele adiciona a branch atual o conteúdo de outra branch;
 Possiveis erros:
 403:Apagando as credenciais, gerenciamento de credenciais;
